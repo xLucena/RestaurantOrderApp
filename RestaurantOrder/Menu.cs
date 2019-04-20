@@ -1,5 +1,5 @@
 ﻿using System.Collections;
-namespace RestaurantOrder
+namespace RestaurantOrder.Classes
 {
     class Menu
     {
@@ -7,7 +7,6 @@ namespace RestaurantOrder
         public ArrayList Itens
         {
             get { return itens; }
-
             set { itens = value; }
 
         }

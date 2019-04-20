@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas\\Documents\\RestaurantOrderApp\\RestaurantOrder\\RestaurantOrder.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\RestaurantOrderApp\\RestaurantOrder\\RestaurantOrder.csproj",
       "projectName": "RestaurantOrder",
-      "projectPath": "C:\\Users\\Lucas\\Documents\\RestaurantOrderApp\\RestaurantOrder\\RestaurantOrder.csproj",
+      "projectPath": "C:\\Users\\Lucas\\Desktop\\RestaurantOrderApp\\RestaurantOrder\\RestaurantOrder.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucas\\Documents\\RestaurantOrderApp\\RestaurantOrder\\obj\\",
+      "outputPath": "C:\\Users\\Lucas\\Desktop\\RestaurantOrderApp\\RestaurantOrder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
